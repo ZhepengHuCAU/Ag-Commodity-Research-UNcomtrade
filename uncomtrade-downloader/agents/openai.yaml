@@ -1,0 +1,5 @@
+interface:
+  display_name: "UN Comtrade Downloader"
+  short_description: "Download and validate HS trade data from UN Comtrade"
+  default_prompt: "Use $uncomtrade-downloader to download UN Comtrade data for my HS code, periods, countries, and trade flows."
+
